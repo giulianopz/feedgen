@@ -30,12 +30,26 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
+
+	var lastDate time.Time
+
 	var f func(*html.Node)
 	f = func(n *html.Node) {
 		if n.Type == html.ElementNode && n.Data == "div" {
 			for _, a := range n.Attr {
 				if a.Key == "class" && (a.Val == "post glimpse" || a.Val == "post link") {
-					feed.Items = append(feed.Items, findArticle(n))
+
+					item := findArticle(n)
+
+					if !item.Created.IsZero() {
+						lastDate = item.Created
+					} else if !lastDate.IsZero() {
+						item.Created = lastDate.Add(24 * time.Hour)
+					} else {
+						lastDate = time.Date(1970, 1, 1, 1, 1, 1, 1, time.UTC)
+					}
+
+					feed.Items = append(feed.Items, item)
 					break
 				}
 			}
@@ -46,7 +60,6 @@ func main() {
 	}
 	f(doc)
 
-	fmt.Println("-----------------------------")
 	rss, err := feed.ToRss()
 	if err != nil {
 		log.Fatal(err)
@@ -68,9 +81,9 @@ func findArticle(node *html.Node) *feeds.Item {
 		if n.Type == html.ElementNode && n.Data == "a" {
 			for _, a := range n.Attr {
 				if a.Key == "href" {
-					fmt.Println(a.Val)
+					//fmt.Println(a.Val)
 					item.Link = &feeds.Link{Href: "https://weblog.jamisbuck.org" + a.Val}
-					fmt.Println(n.FirstChild.Data)
+					//fmt.Println(n.FirstChild.Data)
 					item.Title = n.FirstChild.Data
 				}
 			}
@@ -79,11 +92,11 @@ func findArticle(node *html.Node) *feeds.Item {
 		if n.Type == html.ElementNode && n.Data == "span" {
 			for _, a := range n.Attr {
 				if a.Key == "class" && a.Val == "month" {
-					fmt.Println(n.FirstChild.Data)
+					//fmt.Println(n.FirstChild.Data)
 					month = n.FirstChild.Data
 				}
 				if a.Key == "class" && a.Val == "year" {
-					fmt.Println(n.FirstChild.Data)
+					//fmt.Println(n.FirstChild.Data)
 					year = n.FirstChild.Data
 				}
 			}
@@ -96,9 +109,9 @@ func findArticle(node *html.Node) *feeds.Item {
 
 	finder(node)
 
-	date, err := time.Parse(time.DateOnly, fmt.Sprintf("%s-%s-%s", year, month, "01"))
+	date, err := time.Parse("02-Jan-2006", fmt.Sprintf("%s-%s-%s", "01", month, year))
 	if err != nil {
-		fmt.Println(err)
+		//fmt.Println(err)
 	} else {
 		item.Created = date
 	}
