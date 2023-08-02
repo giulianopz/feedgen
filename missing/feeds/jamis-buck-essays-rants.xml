@@ -4,7 +4,7 @@
     <link>https://weblog.jamisbuck.org/essays-and-rants/</link>
     <description>Assorted ramblings by Jamis Buck</description>
     <managingEditor>jamis@jamisbuck.org (Jamis Buck)</managingEditor>
-    <pubDate>Thu, 03 Aug 2023 01:17:56 +0200</pubDate>
+    <pubDate>Wed, 02 Aug 2023 23:29:10 +0000</pubDate>
     <item>
       <title>The Minimalist Programmer</title>
       <link>https://weblog.jamisbuck.org/2016/5/7/minimalist-programmer.html</link>
@@ -31,7 +31,7 @@
       <link>https://weblog.jamisbuck.org/2016/3/12/variations-theme-i-becomes-we.html</link>
       <description></description>
       <author>Jamis Buck</author>
-      <pubDate>Wed, 02 Mar 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Feb 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The weakly-flowing stream</title>
@@ -45,7 +45,7 @@
       <link>https://weblog.jamisbuck.org/2016/2/6/living-with-your-eyes-open.html</link>
       <description></description>
       <author>Jamis Buck</author>
-      <pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 31 Jan 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Software Proverbs</title>
@@ -59,7 +59,7 @@
       <link>https://weblog.jamisbuck.org/2016/1/9/dont-assume-its-difficult.html</link>
       <description></description>
       <author>Jamis Buck</author>
-      <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Avoiding &#34;Call Super&#34; with Callbacks</title>
@@ -73,14 +73,14 @@
       <link>https://weblog.jamisbuck.org/2015/12/12/little-things-proc-parameters.html</link>
       <description></description>
       <author>Jamis Buck</author>
-      <pubDate>Wed, 02 Dec 2015 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Nov 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Integration API vs. Internal API</title>
       <link>https://weblog.jamisbuck.org/2015/12/5/integration-api-vs-internal-api.html</link>
       <description></description>
       <author>Jamis Buck</author>
-      <pubDate>Wed, 02 Dec 2015 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Nov 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Upsilon Mazes</title>
@@ -94,21 +94,21 @@
       <link>https://weblog.jamisbuck.org/2015/11/21/representing-toroidal-grid.html</link>
       <description></description>
       <author>Jamis Buck</author>
-      <pubDate>Mon, 02 Nov 2015 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Little Things: Refactoring with Hashes</title>
       <link>https://weblog.jamisbuck.org/2015/11/14/little-things-refactoring-with-hashes.html</link>
       <description></description>
       <author>Jamis Buck</author>
-      <pubDate>Mon, 02 Nov 2015 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Fifteen Minutes at a Time</title>
       <link>https://weblog.jamisbuck.org/2015/11/7/fifteen-minutes-at-a-time.html</link>
       <description></description>
       <author>Jamis Buck</author>
-      <pubDate>Mon, 02 Nov 2015 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Mazes with Blockwise Geometry</title>
@@ -122,14 +122,14 @@
       <link>https://weblog.jamisbuck.org/2015/10/24/testing-what-you-should-have-written.html</link>
       <description></description>
       <author>Jamis Buck</author>
-      <pubDate>Fri, 02 Oct 2015 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Changing the Channel</title>
       <link>https://weblog.jamisbuck.org/2015/10/3/changing-channel.html</link>
       <description></description>
       <author>Jamis Buck</author>
-      <pubDate>Fri, 02 Oct 2015 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Default Scopes are an Anti-Pattern</title>
@@ -143,14 +143,14 @@
       <link>https://weblog.jamisbuck.org/2015/9/12/little-things-heredocs.html</link>
       <description></description>
       <author>Jamis Buck</author>
-      <pubDate>Wed, 02 Sep 2015 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 31 Aug 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Little Things: Hashes &amp; Procs</title>
       <link>https://weblog.jamisbuck.org/2015/9/5/little-things-hashes-and-procs.html</link>
       <description></description>
       <author>Jamis Buck</author>
-      <pubDate>Wed, 02 Sep 2015 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 31 Aug 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ideas are Cheap</title>
@@ -164,7 +164,7 @@
       <link>https://weblog.jamisbuck.org/2015/8/4/writing-a-klondike-puzzle-solver.html</link>
       <description></description>
       <author>Jamis Buck</author>
-      <pubDate>Sun, 02 Aug 2015 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Writing a Simple Recursive Descent Parser</title>
@@ -213,7 +213,7 @@
       <link>https://weblog.jamisbuck.org/2009/9/16/there-is-no-magic-there-is-only-awesome-part-1.html</link>
       <description></description>
       <author>Jamis Buck</author>
-      <pubDate>Wed, 02 Sep 2009 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 31 Aug 2009 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>LEGOs, Play-Doh, and Programming</title>
@@ -269,7 +269,7 @@
       <link>https://weblog.jamisbuck.org/2006/11/7/don-t-be-afraid-of-harnessing-sql.html</link>
       <description></description>
       <author>Jamis Buck</author>
-      <pubDate>Thu, 02 Nov 2006 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 Oct 2006 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Prolog in Ruby</title>
@@ -283,14 +283,14 @@
       <link>https://weblog.jamisbuck.org/2006/10/23/indexing-for-db-performance.html</link>
       <description></description>
       <author>Jamis Buck</author>
-      <pubDate>Mon, 02 Oct 2006 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 Sep 2006 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Skinny Controller, Fat Model</title>
       <link>https://weblog.jamisbuck.org/2006/10/18/skinny-controller-fat-model.html</link>
       <description></description>
       <author>Jamis Buck</author>
-      <pubDate>Mon, 02 Oct 2006 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 Sep 2006 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>D&amp;D, Knowledge bases, and Prolog (oh, my!)</title>
@@ -304,7 +304,7 @@
       <link>https://weblog.jamisbuck.org/2006/9/27/1d6-more-reasons-to-love-ruby.html</link>
       <description></description>
       <author>Jamis Buck</author>
-      <pubDate>Sat, 02 Sep 2006 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 31 Aug 2006 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Writing Domain Specific Languages</title>
@@ -346,7 +346,7 @@
       <link>https://weblog.jamisbuck.org/2005/6/3/ie-is-teh-3v1l.html</link>
       <description></description>
       <author>Jamis Buck</author>
-      <pubDate>Thu, 02 Jun 2005 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 May 2005 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Test-First Development</title>
@@ -360,7 +360,7 @@
       <link>https://weblog.jamisbuck.org/2005/3/12/to-sync-or-not-to-sync.html</link>
       <description></description>
       <author>Jamis Buck</author>
-      <pubDate>Wed, 02 Mar 2005 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 28 Feb 2005 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ajax</title>
@@ -409,7 +409,7 @@
       <link>https://weblog.jamisbuck.org/2004/3/4/java-good-java-bad.html</link>
       <description></description>
       <author>Jamis Buck</author>
-      <pubDate>Tue, 02 Mar 2004 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 29 Feb 2004 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

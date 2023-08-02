@@ -44,7 +44,7 @@ func main() {
 					if !item.Created.IsZero() {
 						lastDate = item.Created
 					} else if !lastDate.IsZero() {
-						item.Created = lastDate.Add(24 * time.Hour)
+						item.Created = lastDate.Add(-24 * time.Hour)
 					} else {
 						lastDate = time.Date(1970, 1, 1, 1, 1, 1, 1, time.UTC)
 					}
