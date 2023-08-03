@@ -1,0 +1,1539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Paul Graham&#39;s Essays</title>
+    <link>http://www.paulgraham.com/articles.html</link>
+    <description>If you&#39;re not sure which to read, try &#39;Is it Worth Being Wise?&#39;,
+      &#39;Having Kids&#39;, or &#39;How to Lose Time and Money&#39;.</description>
+    <managingEditor>pg@ycombinator.org (Paul Graham)</managingEditor>
+    <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    <item>
+      <title>How to Do Great Work</title>
+      <link>http://www.paulgraham.com/greatwork.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>How to Get New Ideas</title>
+      <link>http://www.paulgraham.com/getideas.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Need to Read</title>
+      <link>http://www.paulgraham.com/read.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>What You (Want to)* Want</title>
+      <link>http://www.paulgraham.com/want.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Alien Truth</title>
+      <link>http://www.paulgraham.com/alien.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>What I&#39;ve Learned from Users</title>
+      <link>http://www.paulgraham.com/users.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Heresy</title>
+      <link>http://www.paulgraham.com/heresy.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Putting Ideas into Words</title>
+      <link>http://www.paulgraham.com/words.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Is There Such a Thing as Good Taste?</title>
+      <link>http://www.paulgraham.com/goodtaste.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Beyond Smart</title>
+      <link>http://www.paulgraham.com/smart.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Weird Languages</title>
+      <link>http://www.paulgraham.com/weird.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>How to Work Hard</title>
+      <link>http://www.paulgraham.com/hwh.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>A Project of One&#39;s Own</title>
+      <link>http://www.paulgraham.com/own.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Fierce Nerds</title>
+      <link>http://www.paulgraham.com/fn.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Crazy New Ideas</title>
+      <link>http://www.paulgraham.com/newideas.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>An NFT That Saves Lives</title>
+      <link>http://www.paulgraham.com/nft.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Real Reason to End the Death Penalty</title>
+      <link>http://www.paulgraham.com/real.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>How People Get Rich Now</title>
+      <link>http://www.paulgraham.com/richnow.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Write Simply</title>
+      <link>http://www.paulgraham.com/simply.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Donate Unrestricted</title>
+      <link>http://www.paulgraham.com/donate.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>What I Worked On</title>
+      <link>http://www.paulgraham.com/worked.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Earnestness</title>
+      <link>http://www.paulgraham.com/earnest.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Billionaires Build</title>
+      <link>http://www.paulgraham.com/ace.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Airbnbs</title>
+      <link>http://www.paulgraham.com/airbnbs.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>How to Think for Yourself</title>
+      <link>http://www.paulgraham.com/think.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Early Work</title>
+      <link>http://www.paulgraham.com/early.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Modeling a Wealth Tax</title>
+      <link>http://www.paulgraham.com/wtax.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Four Quadrants of Conformism</title>
+      <link>http://www.paulgraham.com/conformism.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Orthodox Privilege</title>
+      <link>http://www.paulgraham.com/orth.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Coronavirus and Credibility</title>
+      <link>http://www.paulgraham.com/cred.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>How to Write Usefully</title>
+      <link>http://www.paulgraham.com/useful.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Being a Noob</title>
+      <link>http://www.paulgraham.com/noob.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Haters</title>
+      <link>http://www.paulgraham.com/fh.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Two Kinds of Moderate</title>
+      <link>http://www.paulgraham.com/mod.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Fashionable Problems</title>
+      <link>http://www.paulgraham.com/fp.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Having Kids</title>
+      <link>http://www.paulgraham.com/kids.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Lesson to Unlearn</title>
+      <link>http://www.paulgraham.com/lesson.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Novelty and Heresy</title>
+      <link>http://www.paulgraham.com/nov.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Bus Ticket Theory of Genius</title>
+      <link>http://www.paulgraham.com/genius.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>General and Surprising</title>
+      <link>http://www.paulgraham.com/sun.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Charisma / Power</title>
+      <link>http://www.paulgraham.com/pow.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Risk of Discovery</title>
+      <link>http://www.paulgraham.com/disc.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>How to Make Pittsburgh a Startup Hub</title>
+      <link>http://www.paulgraham.com/pgh.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Life is Short</title>
+      <link>http://www.paulgraham.com/vb.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Economic Inequality</title>
+      <link>http://www.paulgraham.com/ineq.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Refragmentation</title>
+      <link>http://www.paulgraham.com/re.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Jessica Livingston</title>
+      <link>http://www.paulgraham.com/jessica.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>A Way to Detect Bias</title>
+      <link>http://www.paulgraham.com/bias.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Write Like You Talk</title>
+      <link>http://www.paulgraham.com/talk.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Default Alive or Default Dead?</title>
+      <link>http://www.paulgraham.com/aord.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Why It&#39;s Safe for Founders to Be Nice</title>
+      <link>http://www.paulgraham.com/safe.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Change Your Name</title>
+      <link>http://www.paulgraham.com/name.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>What Microsoft Is this the Altair Basic of?</title>
+      <link>http://www.paulgraham.com/altair.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Ronco Principle</title>
+      <link>http://www.paulgraham.com/ronco.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>What Doesn&#39;t Seem Like Work?</title>
+      <link>http://www.paulgraham.com/work.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Don&#39;t Talk to Corp Dev</title>
+      <link>http://www.paulgraham.com/corpdev.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Let the Other 95% of Great Programmers In</title>
+      <link>http://www.paulgraham.com/95.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>How to Be an Expert in a Changing World</title>
+      <link>http://www.paulgraham.com/ecw.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>How You Know</title>
+      <link>http://www.paulgraham.com/know.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Fatal Pinch</title>
+      <link>http://www.paulgraham.com/pinch.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mean People Fail</title>
+      <link>http://www.paulgraham.com/mean.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Before the Startup</title>
+      <link>http://www.paulgraham.com/before.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>How to Raise Money</title>
+      <link>http://www.paulgraham.com/fr.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Investor Herd Dynamics</title>
+      <link>http://www.paulgraham.com/herd.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>How to Convince Investors</title>
+      <link>http://www.paulgraham.com/convince.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Do Things that Don&#39;t Scale</title>
+      <link>http://www.paulgraham.com/ds.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Startup Investing Trends</title>
+      <link>http://www.paulgraham.com/invtrend.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>How to Get Startup Ideas</title>
+      <link>http://www.paulgraham.com/startupideas.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Hardware Renaissance</title>
+      <link>http://www.paulgraham.com/hw.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Startup = Growth</title>
+      <link>http://www.paulgraham.com/growth.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Black Swan Farming</title>
+      <link>http://www.paulgraham.com/swan.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Top of My Todo List</title>
+      <link>http://www.paulgraham.com/todo.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Writing and Speaking</title>
+      <link>http://www.paulgraham.com/speak.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>How Y Combinator Started</title>
+      <link>http://www.paulgraham.com/ycstart.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Defining Property</title>
+      <link>http://www.paulgraham.com/property.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Frighteningly Ambitious Startup Ideas</title>
+      <link>http://www.paulgraham.com/ambitious.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>A Word to the Resourceful</title>
+      <link>http://www.paulgraham.com/word.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Schlep Blindness</title>
+      <link>http://www.paulgraham.com/schlep.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Snapshot: Viaweb, June 1998</title>
+      <link>http://www.paulgraham.com/vw.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Why Startup Hubs Work</title>
+      <link>http://www.paulgraham.com/hubs.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Patent Pledge</title>
+      <link>http://www.paulgraham.com/patentpledge.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Subject: Airbnb</title>
+      <link>http://www.paulgraham.com/airbnb.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Founder Control</title>
+      <link>http://www.paulgraham.com/control.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Tablets</title>
+      <link>http://www.paulgraham.com/tablets.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>What We Look for in Founders</title>
+      <link>http://www.paulgraham.com/founders.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The New Funding Landscape</title>
+      <link>http://www.paulgraham.com/superangels.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Where to See Silicon Valley</title>
+      <link>http://www.paulgraham.com/seesv.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>High Resolution Fundraising </title>
+      <link>http://www.paulgraham.com/hiresfund.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>What Happened to Yahoo </title>
+      <link>http://www.paulgraham.com/yahoo.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Future of Startup Funding </title>
+      <link>http://www.paulgraham.com/future.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Acceleration of Addictiveness</title>
+      <link>http://www.paulgraham.com/addiction.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Top Idea in Your Mind </title>
+      <link>http://www.paulgraham.com/top.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>How to Lose Time and Money </title>
+      <link>http://www.paulgraham.com/selfindulgence.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Organic Startup Ideas</title>
+      <link>http://www.paulgraham.com/organic.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Apple&#39;s Mistake</title>
+      <link>http://www.paulgraham.com/apple.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>What Startups Are Really Like</title>
+      <link>http://www.paulgraham.com/really.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Persuade xor Discover </title>
+      <link>http://www.paulgraham.com/discover.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Post-Medium Publishing</title>
+      <link>http://www.paulgraham.com/publishing.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The List of N Things</title>
+      <link>http://www.paulgraham.com/nthings.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Anatomy of Determination </title>
+      <link>http://www.paulgraham.com/determination.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>What Kate Saw in Silicon Valley </title>
+      <link>http://www.paulgraham.com/kate.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Trouble with the Segway</title>
+      <link>http://www.paulgraham.com/segway.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Ramen Profitable</title>
+      <link>http://www.paulgraham.com/ramenprofitable.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Maker&#39;s Schedule, Manager&#39;s Schedule </title>
+      <link>http://www.paulgraham.com/makersschedule.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>A Local Revolution?</title>
+      <link>http://www.paulgraham.com/revolution.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Why Twitter is a Big Deal</title>
+      <link>http://www.paulgraham.com/twitter.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Founder Visa</title>
+      <link>http://www.paulgraham.com/foundervisa.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Five Founders</title>
+      <link>http://www.paulgraham.com/5founders.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Relentlessly Resourceful</title>
+      <link>http://www.paulgraham.com/relres.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>How to Be an Angel Investor</title>
+      <link>http://www.paulgraham.com/angelinvesting.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Why TV Lost</title>
+      <link>http://www.paulgraham.com/convergence.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Can You Buy a Silicon Valley? Maybe.</title>
+      <link>http://www.paulgraham.com/maybe.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>What I&#39;ve Learned from Hacker News</title>
+      <link>http://www.paulgraham.com/hackernews.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Startups in 13 Sentences</title>
+      <link>http://www.paulgraham.com/13sentences.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Keep Your Identity Small </title>
+      <link>http://www.paulgraham.com/identity.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>After Credentials</title>
+      <link>http://www.paulgraham.com/credentials.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Could VC be a Casualty of the Recession?</title>
+      <link>http://www.paulgraham.com/divergence.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The High-Res Society</title>
+      <link>http://www.paulgraham.com/highres.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Other Half of &#34;Artists Ship&#34; </title>
+      <link>http://www.paulgraham.com/artistsship.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Why to Start a Startup in a Bad Economy</title>
+      <link>http://www.paulgraham.com/badeconomy.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>A Fundraising Survival Guide</title>
+      <link>http://www.paulgraham.com/fundraising.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Pooled-Risk Company Management Company</title>
+      <link>http://www.paulgraham.com/prcmc.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Cities and Ambition</title>
+      <link>http://www.paulgraham.com/cities.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Disconnecting Distraction</title>
+      <link>http://www.paulgraham.com/distraction.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Lies We Tell Kids</title>
+      <link>http://www.paulgraham.com/lies.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Be Good</title>
+      <link>http://www.paulgraham.com/good.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Why There Aren&#39;t More Googles</title>
+      <link>http://www.paulgraham.com/googles.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Some Heroes</title>
+      <link>http://www.paulgraham.com/heroes.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>How to Disagree</title>
+      <link>http://www.paulgraham.com/disagree.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>You Weren&#39;t Meant to Have a Boss</title>
+      <link>http://www.paulgraham.com/boss.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>A New Venture Animal</title>
+      <link>http://www.paulgraham.com/ycombinator.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Trolls</title>
+      <link>http://www.paulgraham.com/trolls.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Six Principles for Making New Things</title>
+      <link>http://www.paulgraham.com/newthings.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Why to Move to a Startup Hub</title>
+      <link>http://www.paulgraham.com/startuphubs.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Future of Web Startups</title>
+      <link>http://www.paulgraham.com/webstartups.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>How to Do Philosophy</title>
+      <link>http://www.paulgraham.com/philosophy.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>News from the Front</title>
+      <link>http://www.paulgraham.com/colleges.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>How Not to Die</title>
+      <link>http://www.paulgraham.com/die.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Holding a Program in One&#39;s Head</title>
+      <link>http://www.paulgraham.com/head.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Stuff</title>
+      <link>http://www.paulgraham.com/stuff.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Equity Equation</title>
+      <link>http://www.paulgraham.com/equity.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>An Alternative Theory of Unions</title>
+      <link>http://www.paulgraham.com/unions.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Hacker&#39;s Guide to Investors</title>
+      <link>http://www.paulgraham.com/guidetoinvestors.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Two Kinds of Judgement</title>
+      <link>http://www.paulgraham.com/judgement.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Microsoft is Dead</title>
+      <link>http://www.paulgraham.com/microsoft.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Why to Not Not Start a Startup</title>
+      <link>http://www.paulgraham.com/notnot.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Is It Worth Being Wise?</title>
+      <link>http://www.paulgraham.com/wisdom.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Learning from Founders</title>
+      <link>http://www.paulgraham.com/foundersatwork.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>How Art Can Be Good</title>
+      <link>http://www.paulgraham.com/goodart.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The 18 Mistakes That Kill Startups</title>
+      <link>http://www.paulgraham.com/startupmistakes.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>A Student&#39;s Guide to Startups</title>
+      <link>http://www.paulgraham.com/mit.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>How to Present to Investors</title>
+      <link>http://www.paulgraham.com/investors.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Copy What You Like</title>
+      <link>http://www.paulgraham.com/copy.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Island Test</title>
+      <link>http://www.paulgraham.com/island.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Power of the Marginal</title>
+      <link>http://www.paulgraham.com/marginal.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Why Startups Condense in America</title>
+      <link>http://www.paulgraham.com/america.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>How to Be Silicon Valley</title>
+      <link>http://www.paulgraham.com/siliconvalley.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Hardest Lessons for Startups to Learn</title>
+      <link>http://www.paulgraham.com/startuplessons.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>See Randomness</title>
+      <link>http://www.paulgraham.com/randomness.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Are Software Patents Evil?</title>
+      <link>http://www.paulgraham.com/softwarepatents.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>6,631,372</title>
+      <link>http://www.paulgraham.com/6631327.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Why YC</title>
+      <link>http://www.paulgraham.com/whyyc.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>How to Do What You Love</title>
+      <link>http://www.paulgraham.com/love.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Good and Bad Procrastination</title>
+      <link>http://www.paulgraham.com/procrastination.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Web 2.0</title>
+      <link>http://www.paulgraham.com/web20.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>How to Fund a Startup</title>
+      <link>http://www.paulgraham.com/startupfunding.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Venture Capital Squeeze</title>
+      <link>http://www.paulgraham.com/vcsqueeze.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Ideas for Startups</title>
+      <link>http://www.paulgraham.com/ideas.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>What I Did this Summer</title>
+      <link>http://www.paulgraham.com/sfp.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Inequality and Risk</title>
+      <link>http://www.paulgraham.com/inequality.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>After the Ladder</title>
+      <link>http://www.paulgraham.com/ladder.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>What Business Can Learn from Open Source</title>
+      <link>http://www.paulgraham.com/opensource.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Hiring is Obsolete</title>
+      <link>http://www.paulgraham.com/hiring.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Submarine</title>
+      <link>http://www.paulgraham.com/submarine.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Why Smart People Have Bad Ideas</title>
+      <link>http://www.paulgraham.com/bronze.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Return of the Mac</title>
+      <link>http://www.paulgraham.com/mac.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Writing, Briefly</title>
+      <link>http://www.paulgraham.com/writing44.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Undergraduation</title>
+      <link>http://www.paulgraham.com/college.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>A Unified Theory of VC Suckage</title>
+      <link>http://www.paulgraham.com/venturecapital.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>How to Start a Startup</title>
+      <link>http://www.paulgraham.com/start.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>What You&#39;ll Wish You&#39;d Known</title>
+      <link>http://www.paulgraham.com/hs.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Made in USA</title>
+      <link>http://www.paulgraham.com/usa.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>It&#39;s Charisma, Stupid</title>
+      <link>http://www.paulgraham.com/charisma.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Bradley&#39;s Ghost</title>
+      <link>http://www.paulgraham.com/polls.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>A Version 1.0</title>
+      <link>http://www.paulgraham.com/laundry.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>What the Bubble Got Right</title>
+      <link>http://www.paulgraham.com/bubble.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Age of the Essay</title>
+      <link>http://www.paulgraham.com/essay.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Python Paradox</title>
+      <link>http://www.paulgraham.com/pypar.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Great Hackers</title>
+      <link>http://www.paulgraham.com/gh.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mind the Gap</title>
+      <link>http://www.paulgraham.com/gap.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>How to Make Wealth</title>
+      <link>http://www.paulgraham.com/wealth.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Word &#34;Hacker&#34;</title>
+      <link>http://www.paulgraham.com/gba.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>What You Can&#39;t Say</title>
+      <link>http://www.paulgraham.com/say.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Filters that Fight Back</title>
+      <link>http://www.paulgraham.com/ffb.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Hackers and Painters</title>
+      <link>http://www.paulgraham.com/hp.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>If Lisp is So Great</title>
+      <link>http://www.paulgraham.com/iflisp.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Hundred-Year Language</title>
+      <link>http://www.paulgraham.com/hundred.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Why Nerds are Unpopular</title>
+      <link>http://www.paulgraham.com/nerds.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Better Bayesian Filtering</title>
+      <link>http://www.paulgraham.com/better.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Design and Research</title>
+      <link>http://www.paulgraham.com/desres.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>A Plan for Spam</title>
+      <link>http://www.paulgraham.com/spam.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Revenge of the Nerds</title>
+      <link>http://www.paulgraham.com/icad.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Succinctness is Power</title>
+      <link>http://www.paulgraham.com/power.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>What Languages Fix</title>
+      <link>http://www.paulgraham.com/fix.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Taste for Makers</title>
+      <link>http://www.paulgraham.com/taste.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Why Arc Isn&#39;t Especially Object-Oriented</title>
+      <link>http://www.paulgraham.com/noop.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>What Made Lisp Different</title>
+      <link>http://www.paulgraham.com/diff.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Other Road Ahead</title>
+      <link>http://www.paulgraham.com/road.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Roots of Lisp</title>
+      <link>http://www.paulgraham.com/rootsoflisp.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Five Questions about Language Design</title>
+      <link>http://www.paulgraham.com/langdes.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Being Popular</title>
+      <link>http://www.paulgraham.com/popular.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Java&#39;s Cover</title>
+      <link>http://www.paulgraham.com/javacover.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Beating the Averages</title>
+      <link>http://www.paulgraham.com/avg.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Lisp for Web-Based Applications</title>
+      <link>http://www.paulgraham.com/lwba.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Chapter 1 of Ansi Common Lisp</title>
+      <link>
+        https://sep.turbifycdn.com/ty/cdn/paulgraham/acl1.txt?t=1689517705</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Chapter 2 of Ansi Common Lisp</title>
+      <link>
+        https://sep.turbifycdn.com/ty/cdn/paulgraham/acl2.txt?t=1689517705</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Programming Bottom-Up</title>
+      <link>http://www.paulgraham.com/progbot.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>This Year We Can End the Death Penalty in California</title>
+      <link>http://www.paulgraham.com/prop62.html</link>
+      <description></description>
+      <author>Paul Graham</author>
+      <pubDate>Fri, 04 Aug 2023 14:38:26 +0200</pubDate>
+    </item>
+  </channel>
+</rss>

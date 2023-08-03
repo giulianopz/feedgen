@@ -1,0 +1,39 @@
+# feed
+title: "The Bucklog: Essays and Rants" 
+link: http://weblog.jamisbuck.org/essays-and-rants/
+description: assorted ramblings by Jamis Buck
+author_name: Jamis Buck
+author_email: jamis@jamisbuck.org
+feed_format: rss
+# feed item
+item_node: div
+item_key: class
+item_vals:
+- post glimpse
+- post link
+# article link
+href_node: a
+# date
+no_date: false
+splitted_date: true
+date_format: "02-Jan-2006"
+fmt_format: "%s-%s-%s"
+# if date is not splitted
+date_node:
+date_key:
+date_val:
+# if date is splitted
+day_node:
+day_key:
+day_val:
+day_default: "01"
+#
+month_node: span
+month_key: class
+month_val: month
+month_default: "Jan"
+#
+year_node: span
+year_key: class
+year_val: year
+year_default: "2006"
