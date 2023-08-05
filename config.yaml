@@ -26,14 +26,14 @@ date_val:
 day_node:
 day_key:
 day_val:
-day_default: "01"
+day_default: "04"
 #
 month_node: span
 month_key: class
 month_val: month
-month_default: "Jan"
+month_default: "Mar"
 #
 year_node: span
 year_key: class
 year_val: year
-year_default: "2006"
+year_default: "2004"
