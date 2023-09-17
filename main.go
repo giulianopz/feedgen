@@ -31,30 +31,6 @@ type config struct {
 	ItemVals []string `yaml:"item_vals,omitempty"`
 
 	HrefNode string `yaml:"href_node,omitempty"`
-
-	NoDate       bool   `yaml:"no_date,omitempty"`
-	SplittedDate bool   `yaml:"splitted_date,omitempty"`
-	DateFormat   string `yaml:"date_format,omitempty"`
-	FmtFormat    string `yaml:"fmt_format,omitempty"`
-
-	DateNode string `yaml:"date_node,omitempty"`
-	DateKey  string `yaml:"date_key,omitempty"`
-	DateVal  string `yaml:"date_val,omitempty"`
-
-	DayNode    string `yaml:"day_node,omitempty"`
-	DayKey     string `yaml:"day_key,omitempty"`
-	DayVal     string `yaml:"day_val,omitempty"`
-	DayDefault string `yaml:"day_default,omitempty"`
-
-	MonthNode    string `yaml:"month_node,omitempty"`
-	MonthKey     string `yaml:"month_key,omitempty"`
-	MonthVal     string `yaml:"month_val,omitempty"`
-	MonthDefault string `yaml:"month_default,omitempty"`
-
-	YearNode    string `yaml:"year_node,omitempty"`
-	YearKey     string `yaml:"year_key,omitempty"`
-	YearVal     string `yaml:"year_val,omitempty"`
-	YearDefault string `yaml:"year_default,omitempty"`
 }
 
 var usage string = "USAGE: feedgen YAML_FILE [OUT_DIR]"
@@ -110,35 +86,38 @@ func main() {
 		log.Fatal(err)
 	}
 
-	var lastDate time.Time
+	var lastDate time.Time = time.Now()
 
 	var f func(*html.Node)
 	f = func(n *html.Node) {
-		// div
+		// div or td, usally
 		if n.Type == html.ElementNode && n.Data == config.ItemNode {
-			for _, a := range n.Attr {
-				// class
-				// "post glimpse", "post link"
-				if a.Key == config.ItemKey && slice.Contains(config.ItemVals, a.Val) {
 
-					item := NewFeedItem(n, config)
+			if config.ItemKey == "" { // search in current node
 
-					if !item.Created.IsZero() {
-						lastDate = item.Created
-					} else if !lastDate.IsZero() {
-						item.Created = lastDate.Add(-24 * time.Hour)
-					} else {
-						parsed, err := time.Parse(config.DateFormat, fmt.Sprintf(config.FmtFormat, config.DayDefault, config.MonthDefault, config.YearDefault))
-						if err != nil {
-							panic(err)
-						}
-						lastDate = parsed
-					}
-
+				item := newFeedItem(n, config)
+				if item.Link != nil && item.Link.Href != "" {
+					item.Created = lastDate
+					lastDate = lastDate.Add(-24 * time.Hour)
 					feed.Items = append(feed.Items, item)
-					break
+				}
+
+			} else { // search in child node
+				for _, a := range n.Attr {
+
+					if a.Key == config.ItemKey && slice.Contains(config.ItemVals, a.Val) {
+
+						item := newFeedItem(n, config)
+						if item.Link != nil && item.Link.Href != "" {
+							item.Created = lastDate
+							lastDate = lastDate.Add(-24 * time.Hour)
+							feed.Items = append(feed.Items, item)
+						}
+						break
+					}
 				}
 			}
+
 		}
 		for c := n.FirstChild; c != nil; c = c.NextSibling {
 			f(c)
@@ -177,14 +156,11 @@ func main() {
 	}
 }
 
-func NewFeedItem(node *html.Node, config *config) *feeds.Item {
+func newFeedItem(node *html.Node, config *config) *feeds.Item {
 
 	item := &feeds.Item{
 		Author: &feeds.Author{Name: config.AuthorName},
 	}
-
-	var day, month, year string
-	var date time.Time = time.Now()
 
 	var finder func(*html.Node)
 	finder = func(n *html.Node) {
@@ -208,74 +184,12 @@ func NewFeedItem(node *html.Node, config *config) *feeds.Item {
 			}
 		}
 
-		if !config.NoDate && config.SplittedDate {
-			if n.Type == html.ElementNode {
-
-				if n.Data == config.YearNode {
-					for _, a := range n.Attr {
-						if a.Key == config.YearKey && a.Val == config.YearVal {
-							year = n.FirstChild.Data
-						}
-					}
-				}
-				if n.Data == config.MonthNode {
-					for _, a := range n.Attr {
-						if a.Key == config.MonthKey && a.Val == config.MonthVal {
-							month = n.FirstChild.Data
-						}
-					}
-				}
-				if n.Data == config.DayNode {
-					for _, a := range n.Attr {
-						if a.Key == config.DayKey && a.Val == config.DayVal {
-							day = n.FirstChild.Data
-						}
-					}
-				}
-
-			}
-		} else if !config.NoDate {
-			if n.Type == html.ElementNode && n.Data == config.DateNode {
-				for _, a := range n.Attr {
-					if a.Key == config.DateKey && a.Val == config.DateVal {
-						parsed, err := time.Parse(config.DateFormat, n.FirstChild.Data)
-						if err != nil {
-							panic(err)
-						}
-						date = parsed
-					}
-				}
-			}
-		}
-
 		for child := n.FirstChild; child != nil; child = child.NextSibling {
 			finder(child)
 		}
 	}
 
 	finder(node)
-
-	if !config.NoDate && config.SplittedDate {
-
-		d, m, y := day, month, year
-		if d == "" {
-			d = config.DayDefault
-		}
-		if m == "" {
-			m = config.MonthDefault
-		}
-		if y == "" {
-			y = config.YearDefault
-		}
-
-		parsed, err := time.Parse(config.DateFormat, fmt.Sprintf(config.FmtFormat, d, m, y))
-		if err != nil {
-			panic(err)
-		}
-		date = parsed
-	}
-
-	item.Created = date
 
 	return item
 }

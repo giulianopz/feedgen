@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Evan Klitzke&#39;s web log</title>
+    <link>https://eklitzke.org/</link>
+    <description>Welcome to Evan Klitzke&#39;s web log</description>
+    <managingEditor>evan@eklitzke.org (Evan Klitzke)</managingEditor>
+    <pubDate>Sun, 17 Sep 2023 08:25:01 +0200</pubDate>
+    <item>
+      <title>Using std::unique_ptr With C APIs</title>
+      <link>https://eklitzke.org/use-unique-ptr-with-c-apis</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sun, 17 Sep 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Handling Updated RPM Package Configuration Files</title>
+      <link>https://eklitzke.org/handling-updated-rpm-package-configuration-files</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sat, 16 Sep 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>An Annoyance With std::filesystem::last_write_time</title>
+      <link>https://eklitzke.org/std-filesystem-last-write-time</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Fri, 15 Sep 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Don&#39;t use div(3)</title>
+      <link>https://eklitzke.org/don&#39;t-use-div(3)</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Thu, 14 Sep 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>STL Iterators and Performance Revisited</title>
+      <link>https://eklitzke.org/stl-iterators-and-performance-revisited</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Wed, 13 Sep 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>How To Use std::lower_bound and std::upper_bound</title>
+      <link>https://eklitzke.org/std-upper-bound-and-std-lower-bound</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Tue, 12 Sep 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>How Tail Call Optimization Works</title>
+      <link>https://eklitzke.org/how-tail-call-optimization-works</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Mon, 11 Sep 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Blog Generator Rewrite</title>
+      <link>https://eklitzke.org/blog-generator-rewrite</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sun, 10 Sep 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Generating Kernel Headers For BPF Kprobes</title>
+      <link>https://eklitzke.org/generating-kernel-headers-for-bpf-kprobes</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sat, 09 Sep 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Making helm-projectile-find-file Fast In Large Projects</title>
+      <link>https://eklitzke.org/making-helm-projectile-find-file-fast-in-large-projects</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Fri, 08 Sep 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Running Build Commands Nicely</title>
+      <link>https://eklitzke.org/running-build-commands-nicely</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Thu, 07 Sep 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Maintaining Sorted Lists In Python</title>
+      <link>https://eklitzke.org/maintaining-sorted-lists-in-python</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Wed, 06 Sep 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>The CBC Padding Oracle Problem</title>
+      <link>https://eklitzke.org/the-cbc-padding-oracle-problem</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Tue, 05 Sep 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Using Local OPTIND With Bash getopts</title>
+      <link>https://eklitzke.org/using-local-optind-with-bash-getopts</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Mon, 04 Sep 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Weekend Hack: nossl.io</title>
+      <link>https://eklitzke.org/weekend-hack-nossl-io</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sun, 03 Sep 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Disabling Ubuntu MOTD Spam</title>
+      <link>https://eklitzke.org/disabling-ubuntu-motd-spam</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sat, 02 Sep 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Bash Subcommand Aliases</title>
+      <link>https://eklitzke.org/bash-subcommand-aliases</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Fri, 01 Sep 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Beware of strncpy() and strncat()</title>
+      <link>https://eklitzke.org/beware-of-strncpy-and-strncat</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Thu, 31 Aug 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Lobotomizing GNOME</title>
+      <link>https://eklitzke.org/lobotomizing-gnome</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Wed, 30 Aug 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Using gpg-agent Effectively</title>
+      <link>https://eklitzke.org/using-gpg-agent-effectively</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Tue, 29 Aug 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>An Overview of Bitcoin UTXOs</title>
+      <link>https://eklitzke.org/an-overview-of-bitcoin-utxos</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Mon, 28 Aug 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Making Bitcoin Fast: Introduction</title>
+      <link>https://eklitzke.org/making-bitcoin-fast-introduction</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sun, 27 Aug 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>How SystemTap Userspace Probes Work</title>
+      <link>https://eklitzke.org/how-sytemtap-userspace-probes-work</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sat, 26 Aug 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Using Emacs And RTags With Autools C++ Projects</title>
+      <link>https://eklitzke.org/using-emacs-and-rtags-with-autotools-c++-projects</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Fri, 25 Aug 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Indexing Git Repos With Hound</title>
+      <link>https://eklitzke.org/indexing-git-repos-with-hound</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Thu, 24 Aug 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Summing Integer Ranges With dc</title>
+      <link>https://eklitzke.org/summing-integer-ranges-with-dc</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Wed, 23 Aug 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Generating Segwit Change Addresses in Bitcoin 0.15</title>
+      <link>https://eklitzke.org/generating-segwit-change-addresses-in-bitcoin-0</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Tue, 22 Aug 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>An Observation About The Bitcoin Block Size Debate</title>
+      <link>https://eklitzke.org/an-observation-about-the-bitcoin-block-size-debate</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Mon, 21 Aug 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>How Many Bitcoins Did Satoshi Nakamoto Mine?</title>
+      <link>https://eklitzke.org/how-many-bitcoins-did-satoshi-nakamoto-mine</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sun, 20 Aug 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Notes on std::shared_ptr and std::weak_ptr</title>
+      <link>https://eklitzke.org/notes-on-std-shared-ptr-and-std-weak-ptr</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sat, 19 Aug 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Pyflame Packages</title>
+      <link>https://eklitzke.org/pyflame-packages</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Fri, 18 Aug 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Using Google Inbox With mailto Links In Firefox</title>
+      <link>https://eklitzke.org/using-google-inbox-with-mailto-links-in-firefox</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Thu, 17 Aug 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Dumping Multi-Threaded Python Stacks</title>
+      <link>https://eklitzke.org/dumping-multi-threaded-python-stacks</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Wed, 16 Aug 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>PTR Records Are Strange</title>
+      <link>https://eklitzke.org/ptr-records-are-strange</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Tue, 15 Aug 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>An Unexpected Python ABI Change</title>
+      <link>https://eklitzke.org/an-unexpected-python-abi-change</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Mon, 14 Aug 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Resurrecting the SRAM Automatix</title>
+      <link>https://eklitzke.org/resurrecting-the-sram-automatix</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sun, 13 Aug 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Production Tornado Deployment With Systemd</title>
+      <link>https://eklitzke.org/production-tornado-deployment-with-systemd</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sat, 12 Aug 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Demystifying The Selfish Mining Bet</title>
+      <link>https://eklitzke.org/demystifying-the-selfish-mining-bet</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Fri, 11 Aug 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Bitcoin Transaction Malleability</title>
+      <link>https://eklitzke.org/bitcoin-transaction-malleability</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Thu, 10 Aug 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Setting Up A Headless Raspberry Pi On Linux</title>
+      <link>https://eklitzke.org/setting-up-a-headless-raspberry-pi-on-linux</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Wed, 09 Aug 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Smarter clang-format In Emacs</title>
+      <link>https://eklitzke.org/smarter-emacs-clang-format</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Tue, 08 Aug 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Down the SSH_AUTH_SOCK Rabbit Hole: A GNOME Adventure</title>
+      <link>https://eklitzke.org/down-the-ssh-auth-sock-rabbit-hole-a-gnome-adventure</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Mon, 07 Aug 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Traveling Salesman Problem Is Not NP-complete</title>
+      <link>https://eklitzke.org/the-traveling-salesman-problem-is-not-np-complete</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sun, 06 Aug 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Declaring C String Constants The Right Way</title>
+      <link>https://eklitzke.org/declaring-c-string-constants-the-right-way</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sat, 05 Aug 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>C String Literals Are Lvalues</title>
+      <link>https://eklitzke.org/c-string-literals-are-lvalues</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Fri, 04 Aug 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>PATH_MAX Is Tricky</title>
+      <link>https://eklitzke.org/path-max-is-tricky</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Thu, 03 Aug 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Pinning GPU Memory in Tensorflow</title>
+      <link>https://eklitzke.org/pinning-gpu-memory-in-tensorflow</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Wed, 02 Aug 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>How To Host Your Own Private Git Repositories</title>
+      <link>https://eklitzke.org/how-to-host-your-own-private-git-repositories</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Tue, 01 Aug 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Bash $* and $@</title>
+      <link>https://eklitzke.org/bash-$*-and-$@</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Mon, 31 Jul 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Blog Rewrite In Go</title>
+      <link>https://eklitzke.org/blog-rewrite-in-go</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sun, 30 Jul 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Efficient File Copying On Linux</title>
+      <link>https://eklitzke.org/efficient-file-copying-on-linux</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sat, 29 Jul 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Cult of DD</title>
+      <link>https://eklitzke.org/the-cult-of-dd</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Fri, 28 Jul 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Unix System Call Timeouts</title>
+      <link>https://eklitzke.org/unix-system-call-timeouts</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Thu, 27 Jul 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>How To Play Pool At A Bar</title>
+      <link>https://eklitzke.org/how-to-play-pool-at-a-bar</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Wed, 26 Jul 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Neoliberalism</title>
+      <link>https://eklitzke.org/neoliberalism</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Tue, 25 Jul 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>An Introduction to Valgrind Memcheck</title>
+      <link>https://eklitzke.org/an-introduction-to-valgrind-memcheck</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Mon, 24 Jul 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>All About Linkers</title>
+      <link>https://eklitzke.org/all-about-linkers</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sun, 23 Jul 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>In Defense of C++</title>
+      <link>https://eklitzke.org/in-defense-of-c++</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sat, 22 Jul 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Unexpected Places You Can And Can&#39;t Use Null Bytes</title>
+      <link>https://eklitzke.org/unexpected-places-you-can-and-cant-use-null-bytes</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Fri, 21 Jul 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>How TCP Sockets Work</title>
+      <link>https://eklitzke.org/how-tcp-sockets-work</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Thu, 20 Jul 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Blocking I/O, Nonblocking I/O, And Epoll</title>
+      <link>https://eklitzke.org/blocking-io-nonblocking-io-and-epoll</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Wed, 19 Jul 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Goroutines, Nonblocking I/O, And Memory Usage</title>
+      <link>https://eklitzke.org/goroutines-nonblocking-io-and-memory-usage</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Tue, 18 Jul 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Hanging A Process With Select</title>
+      <link>https://eklitzke.org/hanging-a-process-with-select</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Mon, 17 Jul 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Stopping A Process</title>
+      <link>https://eklitzke.org/stopping-a-process</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sun, 16 Jul 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Stdout Buffering</title>
+      <link>https://eklitzke.org/stdout-buffering</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sat, 15 Jul 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>How To Nice A Bash Function</title>
+      <link>https://eklitzke.org/how-to-nice-a-bash-function</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Fri, 14 Jul 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Crosh/SSH and ChromeOS</title>
+      <link>https://eklitzke.org/crosh-ssh-and-chromeos</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Thu, 13 Jul 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>x86 Register Encoding</title>
+      <link>https://eklitzke.org/x86-register-encoding</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Wed, 12 Jul 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Pyflame Dual Interpreter Mode</title>
+      <link>https://eklitzke.org/pyflame-dual-interpreter-mode</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Tue, 11 Jul 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Call Stacks and Link Registers</title>
+      <link>https://eklitzke.org/link-registers</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Mon, 10 Jul 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Towers of Hanoi in x86 Assembly</title>
+      <link>https://eklitzke.org/towers-of-hanoi-in-x86-assembly</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sun, 09 Jul 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Go Compiles Infinite Loops Very Efficiently</title>
+      <link>https://eklitzke.org/go-compiles-infinite-loops-very-efficiently</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sat, 08 Jul 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Declare Your Bash Variables</title>
+      <link>https://eklitzke.org/declare-your-bash-variables</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Fri, 07 Jul 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Localhost</title>
+      <link>https://eklitzke.org/localhost</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Thu, 06 Jul 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Gocd</title>
+      <link>https://eklitzke.org/gocd</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Wed, 05 Jul 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Using ssh-agent and ED25519 Keys on GNOME</title>
+      <link>https://eklitzke.org/using-ssh-agent-and-ed25519-keys-on-gnome</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Tue, 04 Jul 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Systemd Socket Activation</title>
+      <link>https://eklitzke.org/systemd-socket-activation</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Mon, 03 Jul 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Esc is Ctrl-[</title>
+      <link>https://eklitzke.org/esc-is-ctrl-[</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sun, 02 Jul 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>F-Market Line Considered Harmful</title>
+      <link>https://eklitzke.org/f-market-considered-harmful</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sat, 01 Jul 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Sponge</title>
+      <link>https://eklitzke.org/sponge</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Fri, 30 Jun 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>5-HTP Contraindications</title>
+      <link>https://eklitzke.org/5-HTP-contraindications</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Thu, 29 Jun 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Documenting Code</title>
+      <link>https://eklitzke.org/documenting-code</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Wed, 28 Jun 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Fedora, QEMU, and 9p Filesystem Passthrough</title>
+      <link>https://eklitzke.org/fedora-qemu-and-9p-filesystem-passthrough</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Tue, 27 Jun 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Inline C/Assembly In Bash</title>
+      <link>https://eklitzke.org/inline-c-and-asm-in-bash</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Mon, 26 Jun 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>A Funny Thing About C and C++</title>
+      <link>https://eklitzke.org/a-funny-thing-about-c-and-c++</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sun, 25 Jun 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>CRCs vs Hash Functions</title>
+      <link>https://eklitzke.org/crcs-vs-hash-functions</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sat, 24 Jun 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>GitHub Private Repos</title>
+      <link>https://eklitzke.org/github-private-repos</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Fri, 23 Jun 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Memory Protection and ASLR on Linux</title>
+      <link>https://eklitzke.org/memory-protection-and-aslr</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Thu, 22 Jun 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>C++ and Thoughts On Java, Go, and Rust</title>
+      <link>https://eklitzke.org/c++-java-go-and-rust</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Wed, 21 Jun 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Curious Case of Position Independent Executables</title>
+      <link>https://eklitzke.org/position-independent-executables</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Tue, 20 Jun 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>GNOME Terminal Server</title>
+      <link>https://eklitzke.org/gnome-terminal-server</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Mon, 19 Jun 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>The x86-64 Red Zone</title>
+      <link>https://eklitzke.org/red-zone</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sun, 18 Jun 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Free Medical Data</title>
+      <link>https://eklitzke.org/free-medical-data</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sat, 17 Jun 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Ptrace, Syscall, and Python</title>
+      <link>https://eklitzke.org/ptrace-syscall-python</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Fri, 16 Jun 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>How GCC LTO Works</title>
+      <link>https://eklitzke.org/how-gcc-lto-works</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Thu, 15 Jun 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Generator Comprehensions / Using any() and all() in Python</title>
+      <link>https://eklitzke.org/generator-comprehensions-and-using-any-and-all-in-python</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Wed, 14 Jun 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Autofs</title>
+      <link>https://eklitzke.org/autofs</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Tue, 13 Jun 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>The 64-bit Extensions to x86 Are a Mess</title>
+      <link>https://eklitzke.org/x86-64-bit-extensions</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Mon, 12 Jun 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Configuring GNOME</title>
+      <link>https://eklitzke.org/configuring-gnome</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sun, 11 Jun 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>GCC Generates Strange Code</title>
+      <link>https://eklitzke.org/gcc-generates-strange-code</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sat, 10 Jun 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>How To Use Autotools</title>
+      <link>https://eklitzke.org/how-to-autotools</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Fri, 09 Jun 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>GPL Licensing</title>
+      <link>https://eklitzke.org/GPL</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Thu, 08 Jun 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Parsing ELF symbol tables</title>
+      <link>https://eklitzke.org/parse-elf</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Wed, 07 Jun 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>A Ptrace Idiosyncrasy</title>
+      <link>https://eklitzke.org/a-ptrace-idiosyncrasy</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Tue, 06 Jun 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Demangling C++ Symbols</title>
+      <link>https://eklitzke.org/demangle</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Mon, 05 Jun 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>C Functions Without Arguments</title>
+      <link>https://eklitzke.org/c-functions-without-arguments</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sun, 04 Jun 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Ptrace (continued)</title>
+      <link>https://eklitzke.org/ptrace-continued</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sat, 03 Jun 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Using Ptrace For Fun And Profit</title>
+      <link>https://eklitzke.org/ptrace</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Fri, 02 Jun 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>SSH Again</title>
+      <link>https://eklitzke.org/ssh-again</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Thu, 01 Jun 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Effectively Using .bash_profile</title>
+      <link>https://eklitzke.org/effectively-using-bash-profile</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Wed, 31 May 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Self-Balancing Trees</title>
+      <link>https://eklitzke.org/self-balancing-trees</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Tue, 30 May 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>LD_PRELOAD Hacks</title>
+      <link>https://eklitzke.org/ld-preload-hacks</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Mon, 29 May 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Linux Swappiness</title>
+      <link>https://eklitzke.org/swappiness</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sun, 28 May 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Misunderstanding mlock(2) and mlockall(2)</title>
+      <link>https://eklitzke.org/mlock-and-mlockall</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sat, 27 May 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Bash If/Equals</title>
+      <link>https://eklitzke.org/bash-if-equals</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Fri, 26 May 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Some Minor Site Changes</title>
+      <link>https://eklitzke.org/site-changes</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Thu, 25 May 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>The SF Housing Crisis</title>
+      <link>https://eklitzke.org/the-sf-housing-crisis</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Wed, 24 May 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Spacemacs</title>
+      <link>https://eklitzke.org/spacemacs</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Tue, 23 May 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Environment Variables</title>
+      <link>https://eklitzke.org/environment-variables</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Mon, 22 May 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Halting Problem</title>
+      <link>https://eklitzke.org/the-halting-problem</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sun, 21 May 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Binding On Port 0</title>
+      <link>https://eklitzke.org/binding-on-port-zero</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sat, 20 May 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Color and TTYs</title>
+      <link>https://eklitzke.org/ansi-color-codes</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Fri, 19 May 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Cornering At Low Speeds</title>
+      <link>https://eklitzke.org/cornering-at-low-speeds</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Thu, 18 May 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Caveats of TCP_NODELAY</title>
+      <link>https://eklitzke.org/the-caveats-of-tcp-nodelay</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Wed, 17 May 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Hate Is Real</title>
+      <link>https://eklitzke.org/the-hate-is-real</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Tue, 16 May 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Rdio</title>
+      <link>https://eklitzke.org/rdio</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Mon, 15 May 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Uninterruptible Sleep</title>
+      <link>https://eklitzke.org/uninterruptible-sleep</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sun, 14 May 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Strace</title>
+      <link>https://eklitzke.org/strace</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sat, 13 May 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>eCryptfs on Fedora</title>
+      <link>https://eklitzke.org/ecryptfs-on-fedora</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Fri, 12 May 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>New Bike Day</title>
+      <link>https://eklitzke.org/shimano-alfine</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Thu, 11 May 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Envoy and Ed25519</title>
+      <link>https://eklitzke.org/envoy-and-ed25519</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Wed, 10 May 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Android Developer Options &amp; ADB</title>
+      <link>https://eklitzke.org/adb</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Tue, 09 May 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Testing Code</title>
+      <link>https://eklitzke.org/testing-changes</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Mon, 08 May 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Slack IRC Gateway</title>
+      <link>https://eklitzke.org/slack-irc</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sun, 07 May 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>BitlBee Accounts</title>
+      <link>https://eklitzke.org/bitlbee-accounts</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sat, 06 May 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Large Data Files</title>
+      <link>https://eklitzke.org/large-data-files</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Fri, 05 May 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Shoes</title>
+      <link>https://eklitzke.org/shoes</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Thu, 04 May 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Thrill Of Riding</title>
+      <link>https://eklitzke.org/the-thrill-of-riding</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Wed, 03 May 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>BitlBee &amp; HipChat</title>
+      <link>https://eklitzke.org/bitlbee-and-hipchat</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Tue, 02 May 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mission Bicycle w/ SRAM Automatix Hub</title>
+      <link>https://eklitzke.org/mission-bicycles-automatix</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Mon, 01 May 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Commodification of Databases</title>
+      <link>https://eklitzke.org/the-commodification-of-databases</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sun, 30 Apr 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Rendering Videos From OpenGL Is Hard</title>
+      <link>https://eklitzke.org/rendering-videos-from-opengl</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sat, 29 Apr 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Linear Algebra; or, The Folly of Youth</title>
+      <link>https://eklitzke.org/linear-algebra</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Fri, 28 Apr 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Surprising Things Found While Exploring Bash</title>
+      <link>https://eklitzke.org/surprising-bash</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Thu, 27 Apr 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Cars And Turn Restrictions On Market St In San Francisco</title>
+      <link>https://eklitzke.org/cars-on-market-st</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Wed, 26 Apr 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Being Self-Taught</title>
+      <link>https://eklitzke.org/being-self-taught</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Tue, 25 Apr 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Resource Management in Garbage Collected Languages</title>
+      <link>https://eklitzke.org/resource-management-in-gc-languages</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Mon, 24 Apr 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>My Philosophy on &#34;Dot Files&#34;</title>
+      <link>https://eklitzke.org/dotfiles</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sun, 23 Apr 2023 08:25:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>An Important Difference Between mysql(1) and MySQLdb</title>
+      <link>https://eklitzke.org/mysql-read-defaults</link>
+      <description></description>
+      <author>Evan Klitzke</author>
+      <pubDate>Sat, 22 Apr 2023 08:25:02 +0200</pubDate>
+    </item>
+  </channel>
+</rss>
